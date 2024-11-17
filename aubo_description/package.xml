@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>aubo_description</name>
+  <version>2.0.7</version>
+  <description>Resources used for MoveIt testing</description>
+
+  <author email="1378132668@qq.com">xyw</author>
+  <maintainer email="1378132668@qq.com">xyw</maintainer>
+  <license>TODO: License declaration</license>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+      <build_type>ament_cmake</build_type>
+  </export>
+</package>
